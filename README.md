@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu me chamo Ana Caroline(Dev Prodigio)</h1>
 
 <div align="center">
-👩‍💻Desenvolvedora de software👩‍💻 com experiência em Python e JavaScript e esse perfil conterá projetos iniciantes nas linguagens de programação.
+👩‍💻Desenvolvedora de software👩‍💻 e aqui serão apresentados projetos iniciais nas linguagens de programação.
 
 </div>
 
