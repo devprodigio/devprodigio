@@ -25,15 +25,17 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprodigio&layout=compact&langs_count=7&theme=merko"/>
           
 </div>
+ 
+ <h2 align="center">
   
-## Linguagens dos projetos
+  
+ Linguagens dos projetos
+  
+  ***
 
- <img align="center" alt="dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img align="center" alt="dev-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
- <img align="center" alt="dev-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />    
- <img align="center" alt="dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- <img align="center" alt="dev-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>        
-   
-
-   
+ <img  alt="dev-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <img  alt="dev-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+ 
+ </h2>
+ 
    ![](https://komarev.com/ghpvc/?username=devprodigio)
