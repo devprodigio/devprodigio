@@ -1,10 +1,11 @@
-<h1 align="center">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu me chamo Ana Caroline(Dev Prodigio)</h1>
+<h1 align="center">Bem vindo! <img src="https://media.tenor.com/-twbL7cMdz8AAAAi/mario-kart.gif" height="60" alt="hand saying ola"width="60px" alt="hand_saying_ hi"> eu me chamo Ana Caroline (Dev Prodigio)</h1>
 
 <div align="center">
-👩‍💻Desenvolvedora de software👩‍💻 e aqui serão apresentados projetos iniciais nas linguagens de programação.
+<p>👩‍💻Desenvolvedora de software👩‍💻 e aqui serão apresentados projetos iniciais nas linguagens de programação.</p>
 
+<img src="https://media0.giphy.com/media/8kERJ466SJRKpaUf5S/giphy.gif?cid=ecf05e476542mt6rbd5p0s38cnn8utah52pbzwf1kbqths36&rid=giphy.gif&ct=s" width="100%" height="100%">
 </div>
-
+ 
 ***
 
 <h3 align="center">
@@ -33,8 +34,9 @@
   
   ***
 
- <img  alt="dev-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img  alt="dev-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+ <img  alt="dev-Js" height="100" width="100" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
+ <img alt="dev-react" height="100" width="100" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+ <img  alt="dev-Python" height="100" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
  
  </h2>
  
