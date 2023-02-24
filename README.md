@@ -1,11 +1,13 @@
 <h1 align="center">Bem vindo! <img src="https://media.tenor.com/-twbL7cMdz8AAAAi/mario-kart.gif" height="60" alt="hand saying ola"width="60px" alt="hand_saying_ hi"> Eu me chamo Ana Caroline (Dev Prodigio)</h1>
 
 <div align="center">
+
 <p>Neste perfil, você terá acesso a projetos iniciais para preencher o seu portfólio e também aprender as linguagens de programação. Todo o readme estará apresentando o passo a passo de cada projeto.</p>
+<h5 align="center">De um:</h5>
 
 <img src="https://media0.giphy.com/media/8kERJ466SJRKpaUf5S/giphy.gif?cid=ecf05e476542mt6rbd5p0s38cnn8utah52pbzwf1kbqths36&rid=giphy.gif&ct=s" width="100%" height="100%">
 </div>
- 
+ <h5 align="center"> na sua carreira!</h5>
 ***
 
 <h3 align="center">
